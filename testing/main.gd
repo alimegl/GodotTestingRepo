@@ -55,3 +55,11 @@ func _on_ScoreTimer_timeout():
 func _on_StartTimer_timeout():
 	$MobTimer.start()
 	$ScoreTimer.start()
+
+
+func _on_start_timer_timeout() -> void:
+	pass # Replace with function body.
+
+
+func _on_score_timer_timeout() -> void:
+	pass # Replace with function body.
