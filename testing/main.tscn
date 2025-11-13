@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://cyfwty2q3rdse"]
+[gd_scene load_steps=8 format=3 uid="uid://1lwnyx46uvna"]
 
 [ext_resource type="Script" uid="uid://ca8uvl5j5ejkf" path="res://Main.gd" id="1"]
 [ext_resource type="PackedScene" uid="uid://rkdnhqgf2hpj" path="res://Mob.tscn" id="2"]
@@ -23,7 +23,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-color = Color(0.219608, 0.372549, 0.380392, 1)
+color = Color(0.86576545, 0.04988232, 0.8366319, 1)
 
 [node name="Player" parent="." instance=ExtResource("3")]
 
